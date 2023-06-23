@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi 👋, I'm <b>Alejandro Martínez</b></h1>
 </div>
-<img src="https://media.tenor.com/zzntm2_9B3gAAAAC/hacker.gif">
+<img align="center" src="https://media.tenor.com/zzntm2_9B3gAAAAC/hacker.gif">
 <br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=alexumtz&label=Profile%20views&color=0e75b6&style=flat" alt="alexumtz" /> </p>
